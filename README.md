@@ -36,5 +36,4 @@ The code could be easily changed to add or remove information about devices, bas
 
 **License**
 
-This project is licensed to you under the terms of the [Cisco Sample
-Code License](./LICENSE).
+This project is licensed to you under the terms of the [Cisco Sample Code License](./LICENSE).
