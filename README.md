@@ -25,7 +25,14 @@ This report will include this information for each device:
   - serial number
 
 The report will be saved as a CSV file.
+
+- Sample CSV file:
+C9800-CL,Cisco Catalyst 9800-CL Wireless Controller for Cloud,16.10.1e,10.93.130.31,9L2L5LASF7
+NYC-9300,Cisco Catalyst 9300 Switch,16.9.2,10.93.130.21,FCW2145L0N
+PDX-9300,Cisco Catalyst 9300 Switch,16.9.2,10.93.130.43,FCW2169L0J
+
 The code could be easily changed to add or remove information about devices, based on the user needs.
+
 
 **License**
 
