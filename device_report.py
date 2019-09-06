@@ -123,8 +123,9 @@ def main():
             device_info = [device_hostname, device_type, device_software_version, device_management_ip, device_sn]
             output_writer.writerow(device_info)
         output_file.close()
+        print('\n\nFile "device_report.csv" saved')
 
-    print('\n\nEnd of application devices_report.py run')
+    print('\n\nEnd of application "device_report.py" run')
 
 
 if __name__ == "__main__":

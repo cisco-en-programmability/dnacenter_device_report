@@ -16,7 +16,7 @@ This is a Python sample code to showcase how to create a Cisco DNA Center manage
 
 - $ python device_report.py
 
-Executing this script will create a report with all the devices managed by Cisco DNA Center.
+Executing this script will identify how many devices are managed by Cisco DNA Center and create a report with all the devices.
 This report will include this information for each device:
   - hostname
   - device type
